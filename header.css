@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(2, 2, 77);
+    text-align: left;
+    color: white;
+    height: 40px;
+    top: 10px;
+    left: 0px;
+    right:0px;
+    padding: 10px;
+    margin: 0px;
+    font-size: 12px;
+    width: 100%;
+    scroll-behavior: sticky;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.Ul2{
+    padding-bottom: 10px;
+    position: relative;
+    left:0px;
+    width:100vw;
+    background-color: navy;
+    height: 50px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin: 0px;
+    padding-top: 0px;
+    box-sizing: border-box;
+    right: 10px;
+    background: cover;
+}
+.Li2{
+    float: left;
+    margin-left:0px;
+    margin-right:20px;
+    list-style-type: none;
+    font-family: 'Bebas Neue', sans-serif;
+    color: white;
+    width: 80px;
+    height: 30px;
+    background-color: navy;
+    text-align: center;
+    line-height: 30px;
+    padding: 0px;
+}
+.Li2:hover{
+    background-color:rgb(1, 1, 46);
+    cursor:pointer;
+}
+
+
