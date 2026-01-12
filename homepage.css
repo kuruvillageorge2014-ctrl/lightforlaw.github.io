@@ -20,6 +20,7 @@ body{
     background-size: cover;
     left: 0px;
     border: none;
+    filter:brightness(50%)
 }
 .Hs1{
     text-align: center;
@@ -109,4 +110,5 @@ body{
     position: relative;
     left:10px;
     font-size: 20px;
+
 }
