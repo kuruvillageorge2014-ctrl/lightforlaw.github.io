@@ -40,75 +40,8 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 .Hs4{
-    width: 100vw;
-    height: 100vw;
-    background-color: rgb(255, 255, 255);
-    aspect-ratio: 7/3;
-}
-.Hs5{
-    right:20px;
-    width: 100vw;
-    clear: both;
-    text-align: center;
-    position: relative;
-    line-height: 75px;
-    font-size: 75px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    color: rgb(252, 248, 3);
-    font-family: 'Nunito', sans-serif;
-    background-color: navy;
-}
-.Hs6{
-    clear: both;
-    text-align: center;
-    line-height: 75px;
-    font-size: 15px;
-    margin-top: 1px;
-    color:rgb(4, 4, 4);
-    font-family: 'Nunito', sans-serif;
-    background-color: rgb;
-}
-.Hs7{
-    position: relative;
-    float: left;
-    width: var(--width);
-    aspect-ratio: 6/3;
-    background-color: white;
-    background-repeat: no-repeat;
-    background-size: cover;
-    left: 0px;
-    border: none;
-}
-.Hs8{
-    text-align: center;
-    line-height: 75px;
-    font-size: 75px;
-    margin-top: 00px;
-    margin-bottom: 0px;
-    color: rgb(252, 248, 3);
-    font-family: 'Nunito', sans-serif;
-}
-.Hs9{
-    text-align: center;
-    line-height: 30px;
-    font-size: 15px;
-    margin-top: 1px;
-    color:rgb(255, 254, 254);
-    font-family: 'Nunito', sans-serif;
-}
-.Ul1{
-    width: 6.2vw;
-    height: 50vw;
-}
-.Li1:hover{
-    background-color: rgb(192, 191, 191);
-    cursor:pointer;
-}
-.Li1{
-    color: blue;
-    position: relative;
-    left:10px;
-    font-size: 20px;
+    float:left;
+    
+    
 
-}
+
