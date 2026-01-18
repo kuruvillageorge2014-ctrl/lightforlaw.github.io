@@ -1,0 +1,112 @@
+body{
+    background:linear-gradient(to bottom, rgb(0,0,62) 50%, navy); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.BoardOfDirectors{
+    margin-top: 0vw;
+    width:100vw;
+    height: 50VW;
+    overflow:visible;
+}
+.BODHeader{
+    font-size: 40px;
+    text-align: center;
+    color:white;
+    display: block;
+    margin-top: 3vw;
+}
+.BOF1{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/IMG_1931.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:2vw;
+    margin-left: 6vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF2{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/IMG_2121.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:4vw;
+    margin-left: 2vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF3{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/IMG_2123.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:2vw;
+    margin-left: 2vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF4{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/IMG_2124.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:2vw;
+    margin-left: 2vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF7{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/IMG_7893.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:4vw;
+    margin-left: 27.5vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF8{
+    width: 20vw;
+    height: 22.33vw;
+    border: 10px #b79e13 solid;
+    background-image: url(images/f3197c26-f44e-455e-84c2-1e93c8430e50.jpeg);
+    overflow: visible;
+    display:block;
+    margin-top:2vw;
+    margin-left: 2vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 2vw;
+    float: left;
+}
+.BOF5{
+    margin-top: 22.3vw;
+    text-align: center;
+    color: gold;
+}
+.BOF6{
+    text-align: center;
+    color: gold;
+}

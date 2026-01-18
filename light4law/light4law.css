@@ -1,0 +1,51 @@
+.body{
+    background-color: rgb(209, 233, 250);
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: navy;
+    text-align: center;
+    color: gold;
+    width: auto;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    padding: 20px;
+}
+.sidenav{
+   height: 100%;
+   width: 160px;
+   position: fixed;  
+   z-index: 1;  
+   top: 0;
+   left: 0;
+   background-color: aliceblue; 
+   overflow-x: hidden;
+   color:grey ;
+}
+.sidenavchange{
+    height: 28px;
+    width: 30px;
+    background-image: url("menu\ bar.jpg");
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.sidenavicon{
+      height: 28px;
+   width: 30px;
+   position: fixed;  
+   z-index: 1;  
+   top: 0;
+   left: 0;
+   background-color: red; 
+   overflow: hidden;
+   color:grey ;
+   transition: transform 0.5s ease-in-out
+}
+.sidenavIconChange{
+    transform: rotate(90deg);
+}
+
+

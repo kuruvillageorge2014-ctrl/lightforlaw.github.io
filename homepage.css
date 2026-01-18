@@ -5,7 +5,7 @@ html{
     --width: 100vw;
 }
 body{
-    background-color: navy;
+    background-color: none;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
@@ -15,12 +15,11 @@ body{
     float: left;
     width: var(--width);
     aspect-ratio: 6/3;
-    background-image: url("light4law\ image\ 1.png");
+    background-image:linear-gradient(to bottom,rgb(0,0,128,0.6),rgb(0,0,62,0.6)), url("light4law\ image\ 1.png"); 
     background-repeat: no-repeat;
     background-size: cover;
     left: 0px;
     border: none;
-    filter:brightness(50%)
 }
 .Hs1{
     text-align: center;
@@ -37,17 +36,67 @@ body{
     font-size: 15px;
     margin-top: 1px;
     color:rgb(255, 254, 254);
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif;    
 }
+.Hs3{
+    clear: both;
+    width:100vw;
+    aspect-ratio: 6/6;
+    background:linear-gradient(to bottom, rgb(0,0,62) 50%, navy); 
+}   
 .Hs4{
     float:left;
-    width:100vw:
+    position:relative;
+    border-radius: 50%;
+    background-image: url(images/IMG_1889.jpeg);
+    width:30vw;
     height:30vw;
-    background-color:navy;
-    color:gold;
+    margin:10vw;
+    background-color: rgb(249, 212, 45);
+    border: brown 2px solid;
+    line-height: 30vw;
+    text-align: center;
+    background-size: contain;
 }
-    
-    
-
-
-
+.Hs5{
+    float:right;
+    margin-right: 10vw;
+    width:30vw;
+    height:30vh;
+    color:white;
+    line-height: 30vw;
+    text-align: center;
+}
+.Hs6{
+    line-height: 3vw;
+    margin-top: 18vw;
+}
+hr{
+    height: 40vw;
+    width: 5px;
+    float: left;
+    background-color: gold;
+    position: relative;
+    line-height: 50vw;
+    margin-top: 6vw;
+}
+.Hs7{
+    width:50vw;
+    clear:both;
+    float:left;
+    color: white;
+}
+.Hs8{
+    margin-top:10vw ;
+    font-size: 30px;
+    clear:both;
+    color: gold;
+    text-align: center;
+}
+.Hs9{
+    margin-top: 10vw;
+    font-size: 40px;
+    clear:both;
+    color: white;
+    text-align: center;
+}
