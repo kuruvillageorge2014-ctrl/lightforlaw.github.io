@@ -8,6 +8,7 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 .BoardOfDirectors{
+    line-height: 100vw;
     margin-top: 0vw;
     width:100vw;
     height: 50VW;
@@ -113,4 +114,5 @@ body{
     text-align: center;
     color: gold;
 }
+
 
