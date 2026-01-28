@@ -5,10 +5,10 @@ html{
     --width: 100vw;
 }
 body{
-    background-color: none;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden;
+    background:linear-gradient(to bottom, rgb(0,0,62) 50%, navy); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
 .Hs{
     position: relative;
@@ -99,4 +99,5 @@ hr{
     clear:both;
     color: white;
     text-align: center;
+
 }
