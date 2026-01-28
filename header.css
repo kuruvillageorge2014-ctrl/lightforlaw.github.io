@@ -48,12 +48,13 @@ header{
     text-align: center;
     line-height: 30px;
     padding: 0px;
-    text-size: conatain;
+    text-size: 1vw;
 }
 .Li2:hover{
     background-color:rgb(1, 1, 46);
     cursor:pointer;
 }
+
 
 
 
