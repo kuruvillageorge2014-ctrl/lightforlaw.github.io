@@ -66,10 +66,12 @@ body{
     color:white;
     line-height: 30vw;
     text-align: center;
+    font-family: 'Nunito', sans-serif;
 }
 .Hs6{
     line-height: 3vw;
     margin-top: 18vw;
+    font-family: 'Nunito', sans-serif;
 }
 hr{
     height: 40vw;
@@ -79,12 +81,14 @@ hr{
     position: relative;
     line-height: 50vw;
     margin-top: 6vw;
+    font-family: 'Nunito', sans-serif;
 }
 .Hs7{
     width:50vw;
     clear:both;
     float:left;
     color: white;
+    font-family: 'Nunito', sans-serif;
 }
 .Hs8{
     margin-top:10vw ;
@@ -92,6 +96,7 @@ hr{
     clear:both;
     color: gold;
     text-align: center;
+    font-family: 'Nunito', sans-serif;
 }
 .Hs9{
     margin-top: 10vw;
@@ -99,5 +104,6 @@ hr{
     clear:both;
     color: white;
     text-align: center;
-
+    font-family: 'Nunito', sans-serif;
 }
+
