@@ -4,6 +4,9 @@ body{
     background-attachment: fixed;
     min-height: 100vh;
 }
+*{
+    font-family: 'Nunito', sans-serif;
+}
 .BoardOfDirectors{
     margin-top: 0vw;
     width:100vw;
@@ -110,3 +113,4 @@ body{
     text-align: center;
     color: gold;
 }
+
