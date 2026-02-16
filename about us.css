@@ -106,7 +106,7 @@ body{
     float: left;
 }
 .BOF5{
-    margin-top: 22.3vw;
+    clear: both;
     text-align: center;
     color: gold;
 }
@@ -114,5 +114,6 @@ body{
     text-align: center;
     color: gold;
 }
+
 
 
