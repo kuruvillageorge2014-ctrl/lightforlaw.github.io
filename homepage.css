@@ -50,7 +50,7 @@ body{
     border-radius: 50%;
     background-image: url(images/IMG_1889.jpeg);
     width:30vw;
-    height:30vw;
+    height:50vh;
     margin:10vw;
     background-color: rgb(249, 212, 45);
     border: brown 2px solid;
@@ -62,7 +62,7 @@ body{
     float:right;
     margin-right: 10vw;
     width:30vw;
-    height:30vh;
+    height:50vh;
     color:white;
     line-height: 30vw;
     text-align: center;
@@ -74,7 +74,7 @@ body{
     font-family: 'Nunito', sans-serif;
 }
 hr{
-    height: 40vw;
+    height: 40vh;
     width: 5px;
     float: left;
     background-color: gold;
@@ -106,4 +106,5 @@ hr{
     text-align: center;
     font-family: 'Nunito', sans-serif;
 }
+
 
